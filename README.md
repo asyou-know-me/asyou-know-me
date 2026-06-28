@@ -45,7 +45,7 @@ Built an AI-powered resume analysis platform using Generative AI with Gemini. Th
 
 The platform identifies skill gaps, provides a JD-based resume match, generates technical interview questions, behavioral interview questions, and explains the intention behind each question so users can understand what interviewers are trying to evaluate. It also provides a simple roadmap to prepare for the specific job role, helping users improve their resume, skills, and interview readiness.
 
-Key Features:
+**Key Features:**
 - Resume and job description analysis  
 - AI-generated skill gap identification  
 - Resume matching based on the job description  
@@ -53,25 +53,28 @@ Key Features:
 - Explanation of interviewer intention behind questions  
 - Personalized roadmap to prepare for the target role  
 
-Tech Stack: React.js, JavaScript, Gemini GenAI, REST API, HTML, CSS
+**Tech Stack:** React.js, JavaScript, Gemini GenAI, REST API, HTML, CSS
 
 ---
 
 ### Holiday Inn Express Guest Guide
 
-Developed and deployed a web-based hotel guest guide for Holiday Inn Express, designed to help guests easily access important hotel information in one place. The application provides a clean and user-friendly interface where guests can quickly view useful details related to their stay.
+Developed and deployed a web-based guest guide for a **foreign hotel client, Holiday Inn Express**, to help guests easily access important hotel information in one place. The application provides a clean, responsive, and user-friendly interface where guests can quickly view useful details related to their stay.
 
-This project focuses on improving the guest experience by making hotel information more accessible, organized, and mobile-friendly. It is deployed live using Netlify.
+This project was built with a real-world business use case in mind, focusing on improving guest convenience, reducing repetitive front desk inquiries, and making hotel information more accessible through a digital platform. The application is mobile-friendly and deployed live using Netlify.
 
-Live Project: [Holiday Inn Express Guest Guide](https://hie-hotel-guide.netlify.app)
+**Live Project:** [Holiday Inn Express Guest Guide](https://hie-hotel-guide.netlify.app)
 
-Key Features:
-- Clean and responsive guest guide interface  
-- Easy access to hotel-related information  
-- Mobile-friendly design for guest convenience  
-- Live deployment using Netlify  
+**Key Features:**
 
-Tech Stack: HTML, CSS, JavaScript, React.js, Netlify
+* Built for a foreign hotel client
+* Clean and responsive guest guide interface
+* Easy access to hotel-related information
+* Mobile-friendly design for guest convenience
+* Real-world hospitality business use case
+* Live deployment using Netlify
+
+**Tech Stack:** HTML, CSS, JavaScript, React.js, Netlify
 
 ---
 
