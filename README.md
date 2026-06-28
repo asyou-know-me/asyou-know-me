@@ -6,7 +6,7 @@ I’m an enthusiastic Web Developer with strong foundational skills in **HTML, C
 
 I have hands-on experience developing projects such as a **full-stack restaurant ordering application**, a **task management app**, and a **movie browser using React.js and REST APIs**. My focus is on writing clean code, creating smooth user experiences, and learning modern web development practices.
 
-Currently, I’m pursuing a **Bachelor of Science in Computer Science from Osmania University** and actively working toward becoming a strong **Full-Stack Web Developer**.
+I have completed my Bachelor of Science in Computer Science from Osmania University and I’m now focused on growing as a Full-Stack Web Developer by building real-world projects and improving my development skills.
 
 * 🌍 I'm based in India
 * ✉️ You can contact me at [kasaanilkumar8@gmail.com](mailto:kasaanilkumar8@gmail.com)
