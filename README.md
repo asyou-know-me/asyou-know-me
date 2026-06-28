@@ -72,6 +72,7 @@ Key Features:
 - Live deployment using Netlify  
 
 Tech Stack: HTML, CSS, JavaScript, React.js, Netlify
+
 ---
 
 ## Socials
