@@ -2,16 +2,16 @@
 
 ## Web Developer
 
-I’m an enthusiastic Web Developer with strong foundational skills in **HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB**. I enjoy building responsive, user-friendly web applications and continuously improving my full-stack development skills.
+I’m an enthusiastic Web Developer with strong foundational skills in **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and Generative AI integration**. I enjoy building responsive, user-friendly web applications that solve real-world problems.
 
-I have hands-on experience developing projects such as a **full-stack restaurant ordering application**, a **task management app**, and a **movie browser using React.js and REST APIs**. My focus is on writing clean code, creating smooth user experiences, and learning modern web development practices.
+I have hands-on experience developing projects such as an **AI Resume Analyzer using Gemini GenAI and a Holiday Inn Express Guest Guide** deployed on Netlify. My focus is on writing clean code, creating smooth user experiences, and building practical applications that are useful in real-world scenarios.
 
-I have completed my Bachelor of Science in Computer Science from Osmania University and I’m now focused on growing as a Full-Stack Web Developer by building real-world projects and improving my development skills.
+I have completed my **Bachelor of Science in Computer Science from Osmania University** and I’m currently focused on growing as a **Full-Stack Web Developer**.
 
 * 🌍 I'm based in India
 * ✉️ You can contact me at [kasaanilkumar8@gmail.com](mailto:kasaanilkumar8@gmail.com)
 * 🧠 I'm currently learning **Amazon Web Services**
-* 🤝 I'm open to collaborating on projects that solve real-world problems
+* 🤝 I'm open to collaborating on full-stack, AI-powered, and real-world problem-solving projects
 
 ---
 
@@ -39,24 +39,39 @@ I have completed my Bachelor of Science in Computer Science from Osmania Univers
 
 ## Projects
 
-### Restaurant Web Application
+### AI Resume Analyzer
 
-Built a full-stack restaurant web app where users can browse menu items and add them to a cart, similar to an online food ordering platform. Developed REST APIs using Node.js and Express.js, stored data in MongoDB, and implemented authentication using Firebase.
+Built an AI-powered resume analysis platform using Generative AI with Gemini. The application allows users to upload or provide their resume along with a job description, then analyzes how well the resume matches the role.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, HTML, CSS, JavaScript
+The platform identifies skill gaps, provides a JD-based resume match, generates technical interview questions, behavioral interview questions, and explains the intention behind each question so users can understand what interviewers are trying to evaluate. It also provides a simple roadmap to prepare for the specific job role, helping users improve their resume, skills, and interview readiness.
 
-### Todo List Application
+Key Features:
+- Resume and job description analysis  
+- AI-generated skill gap identification  
+- Resume matching based on the job description  
+- Technical and behavioral interview question generation  
+- Explanation of interviewer intention behind questions  
+- Personalized roadmap to prepare for the target role  
 
-Built a task management application with features to add, edit, and delete tasks. Implemented Local Storage to keep task data saved even after page refresh.
+Tech Stack: React.js, JavaScript, Gemini GenAI, REST API, HTML, CSS
 
-**Tech Stack:** HTML, CSS, JavaScript
+---
 
-### Movie Browser
+### Holiday Inn Express Guest Guide
 
-Developed a movie search platform using React.js and an external movie database API. Added search functionality, dynamic rendering, and responsive UI components.
+Developed and deployed a web-based hotel guest guide for Holiday Inn Express, designed to help guests easily access important hotel information in one place. The application provides a clean and user-friendly interface where guests can quickly view useful details related to their stay.
 
-**Tech Stack:** React.js, JavaScript, Bootstrap 5, REST API
+This project focuses on improving the guest experience by making hotel information more accessible, organized, and mobile-friendly. It is deployed live using Netlify.
 
+Live Project: [Holiday Inn Express Guest Guide](https://hie-hotel-guide.netlify.app)
+
+Key Features:
+- Clean and responsive guest guide interface  
+- Easy access to hotel-related information  
+- Mobile-friendly design for guest convenience  
+- Live deployment using Netlify  
+
+Tech Stack: HTML, CSS, JavaScript, React.js, Netlify
 ---
 
 ## Socials
